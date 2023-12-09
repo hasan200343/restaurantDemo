@@ -1,0 +1,17 @@
+{
+  "name": "node_html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "intro.js",
+  "scripts": {
+    "start": "nodemon intro.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
